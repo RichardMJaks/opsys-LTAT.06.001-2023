@@ -21,4 +21,4 @@ Kui PRNTSCRN teeb ekraanitõmmise tervest ekraanist, siis ALT+PRNTSCRN teeb ekra
 * Sai paigaldatud ka ZoomIT
 
 ## Windowsi aktiveerimine
-Peale võtme saamist üritasin aktiveerida Windowsi, aga kahjuks GlobalProtect VPN-ga ei saanud aktiveerida.
+Peale võtme saamist üritasin aktiveerida Windowsi, aga kahjuks GlobalProtect VPN-ga ei saanud aktiveerida. Õnneks aga olles ülikoolis ja kasutades antud käsku õnnestus aktiveerida.
