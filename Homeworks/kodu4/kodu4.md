@@ -27,3 +27,16 @@ Süsteemiõigusi läheb vaja süsteemi kallal tegelemiseks. Näiteks süsteemite
 Tegin 2 kausta, vastavalt üks töötajatest saab ligi aga teine ei saa, ning ülemus saab lugeda.
 
 ## 4-6. Windows 11 turbe- ja privaatsussätted
+Mul soovitab päris mitut asja teha, aga ise valin välja, et soovitab mul seada üles andmete backup OneDrive'ga et kui ransomware rünnak tuleb siis saaks failid ikka kätte.
+
+## 4-7. Windowsi turvapoliitikad ja -mallid (Group Policy)
+Jah.
+
+## 4-8. Testimine
+Edukas. Sai Thonny paigaldatud
+
+## 4-9. Turbelogid
+Võttis tsipa aega, aga leidsin üles
+
+## 4-10. Windowsi registri muutmine
+Sain musta ekraani toreda sõnumiga.
