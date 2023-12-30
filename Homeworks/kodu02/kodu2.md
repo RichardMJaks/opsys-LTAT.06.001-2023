@@ -18,3 +18,5 @@ Jällegi, olen **chad** ja kasutan juba Linuxit B)
 
 # Note
 Ma avastasin, et siin lihtsalt vaja harjutused ära teha seega lasen ülejäänud materjali üle. Esitan harjutuskeskonna ekraanitõmmise
+
+![](kodu2-sc1.png)
