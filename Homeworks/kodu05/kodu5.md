@@ -14,10 +14,12 @@ Igale kasutajale luuakse omanimeline grupp selleks, et hoida kasutaja enda isikl
 
 ### 5-4 chown
 Minimaalsed õigused et **kuvada** `uusfail.txt` sisu läheb vaja kaustal `110` õigusi et grupp ja omanik kausta sisse üldse saaks ja failil `440` et grupp ja omanik saaksid lugeda faili. Muidugi see ei luba kuvada kausta sisu, seega on vaja teada failinime, aga kuvamiseks on see minimaalne vajalik.
+![](yl5-4.png)
 
 ### setuid
 #### 5-5
 See on vajalik selleks, et teised kasutajad saaksid faili jooksutada omaniku õiguste raames.
+![](yl5-5.png)
 
 #### 5-6
 Jah, see vähendab süsteeemi turvalisust, sest see võib anda pahatahtlikule ründajale kõrgendatud privileegid läbi mõne faili, millel on turvavigu sees.
