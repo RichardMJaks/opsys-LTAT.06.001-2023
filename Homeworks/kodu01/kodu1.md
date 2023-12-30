@@ -22,3 +22,6 @@ Kui PRNTSCRN teeb ekraanitõmmise tervest ekraanist, siis ALT+PRNTSCRN teeb ekra
 
 ## Windowsi aktiveerimine
 Peale võtme saamist üritasin aktiveerida Windowsi, aga kahjuks GlobalProtect VPN-ga ei saanud aktiveerida. Õnneks aga olles ülikoolis ja kasutades antud käsku õnnestus aktiveerida.
+
+![](kodu1-sc1.png)
+![](kodu1-sc2.png)
