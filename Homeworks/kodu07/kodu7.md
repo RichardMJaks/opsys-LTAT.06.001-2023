@@ -1,5 +1,4 @@
 # Praktikum 7 - Haakimine
-# 0
 Sain ketta lisatud, W11 snapshoti ei saanud tehtud, kuna nvram INVALID\_PARAMETER\_ERROR
 
 # Tulemus
@@ -8,5 +7,7 @@ Sain ketta lisatud, W11 snapshoti ei saanud tehtud, kuna nvram INVALID\_PARAMETE
     * GPT toetab suuremaid draive kui 2TB, 
     * sellele saab teha lõpmatult partitsioone erinevalt MBR-ist, millel saab olla vaid 4 esmast partitsiooni
     * GPT on ühilduvam modernsete süsteemidega kui MBR
+![](yl7-4.png)
 5. `mount o -ro` remountib read-only õigustes, `mount -t auto` automaatselt valib failisüsteemi
 6. Minul peaks auto asenduma ext4-ga, kuna see on minu usb andmekandja failisüsteem.
+![](yl7-7.png)
