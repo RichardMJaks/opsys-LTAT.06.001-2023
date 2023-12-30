@@ -2,8 +2,12 @@
 ## 1. Partitsioneerimine
 Peale Archiga jamamist on see kõvasti vähem hirmsam.
 
+![](yl3-1.png)
+
 ## 2. Linux LVM-partitsioonide seadistamine
 Tegin käsurealt, kindlasti loodan et miskit katki ei teinud :DDDDDD
+
+![](yl3-2.png)
 
 ## 3. Ubuntu paigaldus
 Noh, tegin ära, ja ootasin mõnda aega.
