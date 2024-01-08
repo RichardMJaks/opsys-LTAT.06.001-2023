@@ -16,6 +16,6 @@
 | Mis faili?                        | -         | c:\pagefile.sys | -               | Resource Monitor > Disk > File |
 | Milline protsess loeb enim        | -         | System / MsMpEng.exe | -          | Resource Monitor > Disk > Read |
 | Mis failist?                      | -         |  C:\Program\Files\NextCloud\Qt5Gui.dll | - | Resource Monitor > Disk > File |
-| Milline protsess tektab suurimat võrguliiklust? | - | nextcloud.exe, IP, Port: 10.0.2.15:49900 , Teise poole IP, Port: 193.40.5.90:443, Latents: 0ms, Võrguliikluse maht: 193 B/s| -                 | ![](yl9-14.png) |
+| Milline protsess tektab suurimat võrguliiklust? | - | nextcloud.exe, IP, Port: 10.0.2.15:49900 , Teise poole IP, Port: 193.40.5.90:443, Latents: 0ms, Võrguliikluse maht: 193 B/s| -                 | ![](yl9-14_fixed.png) |
 
 15. Kuidas aru saada miks arvuti on oluliselt aeglasemaks muutunud.
